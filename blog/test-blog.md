@@ -1,5 +1,5 @@
 ---
-path: test-bloc
+path: test-blog
 date: 2019-05-21T04:11:26.810Z
 title: Test Blog
 ---
